@@ -1,0 +1,6 @@
+{
+  "name": "Introdução à Computação - Das Máquinas de Calcular às Programáveis",
+  "description": "Jogo interativo em 4 fases para Introdução à Computação: do estudo de algoritmos à ideia de máquina programável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
